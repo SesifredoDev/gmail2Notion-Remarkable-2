@@ -18,4 +18,4 @@ To make it so that your remarkable works with this system, just set up a filter 
 1. make a folder for all files to be sent to
 2. get the id of the folder :
 ![Alt text](image.png)
-3. put that ID into the corrosponding Varibale.
+3. put that ID into the corrosponding Variable.
