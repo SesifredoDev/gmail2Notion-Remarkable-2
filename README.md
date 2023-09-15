@@ -6,7 +6,7 @@ This script takes emails in a label on your gmail, and will upload them to your 
 2. Then go to your account settings, and create a filter for curtain email addresses to automattically go to "SyncToNotion".
 ![Alt text](image-1.png)
 
-###Remarkable Tip
+### Remarkable Tip
 To make it so that your remarkable works with this system, just set up a filter that the emails from; "my@remarkable.com" got to "Sync To Notion".
 
 ## Set up Notion
